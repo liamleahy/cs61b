@@ -1,0 +1,8 @@
+1. T it is at most logarithmic search
+2. F will be less than log(N) growth
+3. F not on order of linear growth
+4. T it is bounded on top by linear growth rate
+5. T is bounded on top by exponential 
+6. T as mentioned in class
+7. F they are bounded on top by log(N)
+8. O(N^2) make N calls where N is height (approx log(N)) 

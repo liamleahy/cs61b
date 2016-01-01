@@ -1,0 +1,110 @@
+1. Estimated running times (in big-theta notation):
+function1: Theta(N^2)
+function2: Theta(N)
+function3: Theta(N^3)
+
+Data:
+               n         time
+function1:     3200	 0.03
+	       6400	 0.71
+	       12800	 0.261
+	       25600     1.01
+~2.6075e-11*N^1.952
+
+
+function2:
+	800000		.02
+	1600000		.023
+	3200000		.033	
+	6400000		.057
+	102400000	.662
+	204800000	1.315
+~7.751E-9*N^.9902
+function3:
+	200		.043
+	400		.262
+	800		2.025
+	1600		15.982
+~4.5122e-7*N^2.98
+
+Experimentally determined running time, assuming runtime is of the form ~aN^b:
+
+function1: ~2.61e-11N^1.95
+function2: ~7.75e-9N^.9902
+function3: ~4.51e-7N^2.98
+
+2. Data:
+                              n             time
+function4:
+		1234567891234567		.052
+		123456789123456789		.497
+		1234567891234567891		1.559
+		123456789123456			.018
+
+function5 (best case):
+		234342				1.948
+		23434234			2.548
+		2343423422			3.226
+		23434234222			3.492
+
+function5 (worst case):
+
+		1234567891		.446
+		123456789		.044
+		223956799		.082
+		323956799		.117
+
+
+3. Data:
+                              n         time
+ArrayList:
+			10000		.063
+			100000		5.722
+			1000		.007
+			20000		.217
+
+HashSet:		2222		.004
+			22222		.021	
+			222222		.098
+			2222222		1.506
+
+
+
+Experimentally determined running time:
+
+ArrayList:N^2.033
+HashSet:N^1.18
+
+4. Data:
+                                       n         time
+Insertion sort with array list:
+			666			.01
+			6666			.05
+			66666			3.047
+			76666			4.228
+
+Insertion sort with linked list:
+			666			.127
+			766			.17
+			966			.355
+			2000			3.136
+
+
+Experimentally determined running time:
+
+Insertion sort with array:        O(N^2.34)
+Insertion sort with linked list:  O(N^3)
+
+5. Initial guess: O(N^3)
+
+Data:             n               time
+
+		120000		.011
+		320000		.047	
+		640000		.124
+		1280000		.341
+		5120000		2.712
+
+Experimentally determined running time: O(N^2.99)
+
+

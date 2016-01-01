@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+doge
+=======
+dog
+>>>>>>> 2ec6dbd42bbc675508ed28ab542c2bda11f4c243

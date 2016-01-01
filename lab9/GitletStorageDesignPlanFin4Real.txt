@@ -1,0 +1,340 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;\f1\fswiss\fcharset0 Helvetica;\f2\fmodern\fcharset0 Courier-Bold;
+\f3\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker }{\leveltext\leveltemplateid1\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker }{\leveltext\leveltemplateid101\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker }{\leveltext\leveltemplateid201\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker }{\leveltext\leveltemplateid301\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker }{\leveltext\leveltemplateid401\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid5}
+{\list\listtemplateid6\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker }{\leveltext\leveltemplateid501\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid6}
+{\list\listtemplateid7\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker }{\leveltext\leveltemplateid601\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid7}
+{\list\listtemplateid8\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker }{\leveltext\leveltemplateid701\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid8}
+{\list\listtemplateid9\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker }{\leveltext\leveltemplateid801\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid9}
+{\list\listtemplateid10\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker }{\leveltext\leveltemplateid901\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid10}
+{\list\listtemplateid11\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker }{\leveltext\leveltemplateid1001\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid11}
+{\list\listtemplateid12\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker }{\leveltext\leveltemplateid1101\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid12}
+{\list\listtemplateid13\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker }{\leveltext\leveltemplateid1201\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid13}
+{\list\listtemplateid14\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker }{\leveltext\leveltemplateid1301\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid14}
+{\list\listtemplateid15\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker }{\leveltext\leveltemplateid1401\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid15}
+{\list\listtemplateid16\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker }{\leveltext\leveltemplateid1501\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid16}
+{\list\listtemplateid17\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker }{\leveltext\leveltemplateid1601\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid17}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}{\listoverride\listid7\listoverridecount0\ls7}{\listoverride\listid8\listoverridecount0\ls8}{\listoverride\listid9\listoverridecount0\ls9}{\listoverride\listid10\listoverridecount0\ls10}{\listoverride\listid11\listoverridecount0\ls11}{\listoverride\listid12\listoverridecount0\ls12}{\listoverride\listid13\listoverridecount0\ls13}{\listoverride\listid14\listoverridecount0\ls14}{\listoverride\listid15\listoverridecount0\ls15}{\listoverride\listid16\listoverridecount0\ls16}{\listoverride\listid17\listoverridecount0\ls17}}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\qc
+
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+Basic Storage Design Plan for Gitlet\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+\cf0 \expnd0\expndtw0\kerning0
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\b \cf0 \expnd0\expndtw0\kerning0
+Overview\
+\pard\tx20\tx216\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li196\fi-197
+\ls1\ilvl0
+\f1\b0 \cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f0\i \expnd0\expndtw0\kerning0
+.gitlet/curr_dir: directory containing the directories detailing files (files in the particular version that the head points to)\
+\ls1\ilvl0
+\f1\i0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f0\i \expnd0\expndtw0\kerning0
+.gitlet/curr_dir/added: contains pointers to all files that have been added\
+\ls1\ilvl0
+\f1\i0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f0\i \expnd0\expndtw0\kerning0
+.gitlet/curr_dir/\
+\ls1\ilvl0
+\f1\i0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f0\i \expnd0\expndtw0\kerning0
+.gitlet/hist: contains mapping all relationships between commits (their message and time) and dirs (in all_dirs) \
+\ls1\ilvl0
+\f1\i0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f0\i \expnd0\expndtw0\kerning0
+.gitlet/all_dirs: contains 
+\b \expnd0\expndtw0\kerning0
+all 
+\b0 \expnd0\expndtw0\kerning0
+versions independent of curr_dir as mapped by hist.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+\cf0 \expnd0\expndtw0\kerning0
+\
+It is understood that files are edited or not by referencing boolean value specifying whether or not the files have been changed from their original state (in the current directory) or they do not exist in current commit yet
+\b \expnd0\expndtw0\kerning0
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\i0 \cf0 \expnd0\expndtw0\kerning0
+\
+\
+Sequential Example\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\b0 \cf0 \expnd0\expndtw0\kerning0
+For each of the commands below, describe in detail what files on your computer change after the command is executed. Only list changes made to files. Do not list details regarding the reading of files.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\b \cf0 \expnd0\expndtw0\kerning0
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\f2 \cf0 \expnd0\expndtw0\kerning0
+$ java Gitlet init\
+\
+\pard\tx360\tx720\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li720\fi-720
+\ls2\ilvl0
+\f1\b0 \cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f0 \expnd0\expndtw0\kerning0
+If it does not already exist, a new folder called .gitlet is created in the current directory.\
+\ls2\ilvl0
+\f1 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f0 \expnd0\expndtw0\kerning0
+curr_dir, hist, and all_dirs are created and head pointer is assigned to curr_dir. hist commit message is assigned to default (initial commit) with all other info required included (time, etc.)
+\f2\b \expnd0\expndtw0\kerning0
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+\cf0 \expnd0\expndtw0\kerning0
+\
+$ java Gitlet add dog.txt\
+\pard\tx20\tx216\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li196\fi-197
+\ls3\ilvl0
+\f1\b0 \cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f2\b \expnd0\expndtw0\kerning0
+ 
+\f3\b0 \expnd0\expndtw0\kerning0
+dog.txt is added to curr_dir/added \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+\cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\f2\b \cf0 \expnd0\expndtw0\kerning0
+$ java Gitlet commit \'93initial commit of dog.txt\'94\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\f3\b0 \cf0 \expnd0\expndtw0\kerning0
+\
+\pard\tx20\tx216\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li196\fi-197
+\ls4\ilvl0
+\f1 \cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f3 \expnd0\expndtw0\kerning0
+ dog.txt is added in all_dirs and the hist directory records all necessary information (time, commit message, etc.)\
+\ls4\ilvl0
+\f1 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f3 \expnd0\expndtw0\kerning0
+all_dirs head pointer is changed to the set of files from the most recent commit \
+\ls4\ilvl0
+\f1 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f3 \expnd0\expndtw0\kerning0
+curr_dir becomes directory of all_dirs directory of head pointer\
+\ls4\ilvl0
+\f1 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f3 \expnd0\expndtw0\kerning0
+ *note* only files from previous commit (as specified in hist) and those in added are put into new commit dir all other files that were manipulated are not carried over as they were not added first\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+\cf0 \expnd0\expndtw0\kerning0
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\f2\b \cf0 \expnd0\expndtw0\kerning0
+$ java Gitlet add dog.txt\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\f3\b0 \cf0 \expnd0\expndtw0\kerning0
+\
+\pard\tx20\tx216\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li196\fi-197
+\ls5\ilvl0
+\f1 \cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f3 \expnd0\expndtw0\kerning0
+nothing happens to files\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+\cf0 \expnd0\expndtw0\kerning0
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\f2\b \cf0 \expnd0\expndtw0\kerning0
+$ cp manyDogs.txt dog.txt\
+\pard\tx20\tx216\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li196\fi-197
+\ls6\ilvl0
+\f1\b0 \cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f3 \expnd0\expndtw0\kerning0
+contents of manyDogs.txt is copied to dog.txt in the curr_dir and no changes are made \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\f2\b \cf0 \expnd0\expndtw0\kerning0
+\
+$ java Gitlet add dog.txt\
+\pard\tx20\tx216\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li196\fi-197
+\ls7\ilvl0
+\f1\b0 \cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f2\b \expnd0\expndtw0\kerning0
+ 
+\f3\b0 \expnd0\expndtw0\kerning0
+dog.txt is added to curr_dir/added \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+\cf0 \expnd0\expndtw0\kerning0
+\
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\f2\b \cf0 \expnd0\expndtw0\kerning0
+$ java Gitlet commit \'93replaced dog.txt with manyDogs\'94\
+\pard\tx20\tx216\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li196\fi-197
+\ls8\ilvl0
+\f1\b0 \cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f2\b \expnd0\expndtw0\kerning0
+ 
+\f3\b0 \expnd0\expndtw0\kerning0
+curr_dir is changed to new set of files including those from before and the new ones that were added replacing any existing files with the added version\
+\ls8\ilvl0
+\f1 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f3 \expnd0\expndtw0\kerning0
+hist reflects changes\
+\ls8\ilvl0
+\f1 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f3 \expnd0\expndtw0\kerning0
+all_dirs includes new dir and head pointer changes to new pointer\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+\cf0 \expnd0\expndtw0\kerning0
+\
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\f2\b \cf0 \expnd0\expndtw0\kerning0
+$ java Gitlet add manyDogs.txt\
+\pard\tx20\tx216\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li196\fi-197
+\ls9\ilvl0
+\f1\b0 \cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f2\b \expnd0\expndtw0\kerning0
+ 
+\f3\b0 \expnd0\expndtw0\kerning0
+manyDogs.txt is added to curr_dir/added
+\f2\b \expnd0\expndtw0\kerning0
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\f3\b0 \cf0 \expnd0\expndtw0\kerning0
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\f2\b \cf0 \expnd0\expndtw0\kerning0
+$ java Gitlet add ketchupFriend.txt\
+\pard\tx20\tx216\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li196\fi-197
+\ls10\ilvl0
+\f1\b0 \cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f2\b \expnd0\expndtw0\kerning0
+ 
+\f3\b0 \expnd0\expndtw0\kerning0
+ketchupFriend.txt is added to curr_dir/added\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+\cf0 \expnd0\expndtw0\kerning0
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\f2\b \cf0 \expnd0\expndtw0\kerning0
+$ java Gitlet commit \'93added manyDogs and ketchupFriend\'94\
+\pard\tx20\tx216\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li196\fi-197
+\ls11\ilvl0
+\f1\b0 \cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f2\b \expnd0\expndtw0\kerning0
+ 
+\f3\b0 \expnd0\expndtw0\kerning0
+same as previous commits but the detailed files that were added (manyDogs and ketchupFriend)\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+\cf0 \expnd0\expndtw0\kerning0
+\
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\f2\b \cf0 \expnd0\expndtw0\kerning0
+$ java Gitlet commit YOLO\
+\pard\tx20\tx216\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li196\fi-197
+\ls12\ilvl0
+\f1\b0 \cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f2\b \expnd0\expndtw0\kerning0
+ 
+\f3\b0 \expnd0\expndtw0\kerning0
+nothing happens\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+\cf0 \expnd0\expndtw0\kerning0
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\f2\b \cf0 \expnd0\expndtw0\kerning0
+$ cp doge.txt manyDogs.txt\
+\pard\tx20\tx216\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li196\fi-197
+\ls13\ilvl0
+\f1\b0 \cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f2\b \expnd0\expndtw0\kerning0
+ 
+\f3\b0 \expnd0\expndtw0\kerning0
+doge.txt is copied to manyDogs.txt in curr_dir only (as always)
+\f2\b \expnd0\expndtw0\kerning0
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+\cf0 \expnd0\expndtw0\kerning0
+$ java Gitlet add manyDogs.txt\
+\pard\tx20\tx216\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li196\fi-197
+\ls14\ilvl0
+\f1\b0 \cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f2\b \expnd0\expndtw0\kerning0
+ 
+\f3\b0 \expnd0\expndtw0\kerning0
+same as before with adding into the added dir\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+\cf0 \expnd0\expndtw0\kerning0
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\f2\b \cf0 \expnd0\expndtw0\kerning0
+$ java Gitlet commit \'93replaced manyDogs with doge\'94\
+\pard\tx20\tx216\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li196\fi-197
+\ls15\ilvl0
+\f1\b0 \cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f2\b \expnd0\expndtw0\kerning0
+ 
+\f3\b0 \expnd0\expndtw0\kerning0
+same commit as before (with new head pointer and only files rom prev commit and added dir being put into new dir)\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+\cf0 \expnd0\expndtw0\kerning0
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\f2\b \cf0 \expnd0\expndtw0\kerning0
+$ java Gitlet add dog.txt\
+\pard\tx20\tx216\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li196\fi-197
+\ls16\ilvl0
+\f1\b0 \cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f2\b \expnd0\expndtw0\kerning0
+ 
+\f3\b0 \expnd0\expndtw0\kerning0
+dog.txt not added to added dir as the boolean value of whether or not it has been changed in still false\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+\cf0 \expnd0\expndtw0\kerning0
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720
+
+\f2\b \cf0 \expnd0\expndtw0\kerning0
+$ java Gitlet commit \'93added dog yet again\'94\
+\
+\pard\tx20\tx216\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li196\fi-197
+\ls17\ilvl0
+\f1\b0 \cf0 \kerning1\expnd0\expndtw0 {\listtext	\'95	}
+\f2\b \expnd0\expndtw0\kerning0
+ 
+\f3\b0 \expnd0\expndtw0\kerning0
+nothing happens as their are no new changes to be made}
